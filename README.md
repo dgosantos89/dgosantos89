@@ -6,7 +6,7 @@ My name is Diego and I'm a [Software Quality Lead](https://www.linkedin.com/in/d
 
 ###
 
-✨ Creating bugs since 1989<br>:bug: Preventing bugs since 2015
+✨ Creating bugs since 1989<br>:bug: Working on bug prevention since 2015
 
 ###
 
