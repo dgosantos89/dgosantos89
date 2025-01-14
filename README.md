@@ -2,7 +2,7 @@
 
 ###
 
-My name is Diego and I'm a [Software Quality Lead](https://www.linkedin.com/in/dgosantos89).
+My name is Diego and I'm a [Software Quality Specialist](https://www.linkedin.com/in/dgosantos89).
 
 ###
 
